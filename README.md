@@ -82,7 +82,7 @@
                         <div class="hebergement"> <!--bloc contour-->
                             <a href="">
                                 <div class="photoMarseille">
-                                    <img src="Reservia/images/hebergements/4_small/marcus-loke-WQJvWU_HZFo-unsplash.jpg" alt="logement marcus">  
+                                    <img src="images/hebergements/4_small/marcus-loke-WQJvWU_HZFo-unsplash.jpg" alt="logement marcus">  
                                 <div class="titrePhoto"> <!--Description du lieu-->
                                     Auberge la Cannebière
                                 </div>
@@ -105,7 +105,7 @@
                         <div class="hebergement"> <!--bloc contour-->
                             <a href="">
                                 <div class="photoMarseille">
-                                    <img src="Reservia/images/hebergements/4_small/fred-kleber-gTbaxaVLvsg-unsplash.jpg" alt="logement fred">  
+                                    <img src="images/hebergements/4_small/fred-kleber-gTbaxaVLvsg-unsplash.jpg" alt="logement fred">  
                                 <div class="titrePhoto"> <!--Description du lieu-->
                                     Hôtel du port
                                 </div>
@@ -126,7 +126,7 @@
                         <div class="hebergement"> <!--bloc contour-->
                             <a href="">
                                 <div class="photoMarseille">
-                                    <img src="Reservia/images/hebergements/4_small/reisetopia-B8WIgxA_PFU-unsplash.jpg" alt="logement reisetopia">  
+                                    <img src="images/hebergements/4_small/reisetopia-B8WIgxA_PFU-unsplash.jpg" alt="logement reisetopia">  
                                 <div class="titrePhoto"> <!--Description du lieu-->
                                     Hôtel Les mouettes
                                 </div>
@@ -149,7 +149,7 @@
                         <div class="hebergement"> <!--bloc contour-->
                             <a href="">
                                 <div class="photoMarseille">
-                                    <img src="Reservia/images/hebergements/4_small/annie-spratt-Eg1qcIitAuA-unsplash.jpg" alt="logement annie">  
+                                    <img src="images/hebergements/4_small/annie-spratt-Eg1qcIitAuA-unsplash.jpg" alt="logement annie">  
                                 <div class="titrePhoto"> <!--Description du lieu-->
                                     Hôtel de la mer
                                 </div>
@@ -172,7 +172,7 @@
                         <div class="hebergement"> <!--bloc contour-->
                             <a href="">
                                 <div class="photoMarseille">
-                                    <img src="Reservia/images/hebergements/4_small/nicate-lee-kT-ZyaiwBe0-unsplash.jpg" alt="logement nicate">  
+                                    <img src="images/hebergements/4_small/nicate-lee-kT-ZyaiwBe0-unsplash.jpg" alt="logement nicate">  
                                 <div class="titrePhoto"> <!--Description du lieu-->
                                     Auberge Le Panier
                                 </div>
@@ -195,7 +195,7 @@
                         <div class="hebergement"> <!--bloc contour-->
                             <a href="">
                                 <div class="photoMarseille">
-                                    <img src="Reservia/images/hebergements/4_small/febrian-zakaria-M6S1WvfW68A-unsplash.jpg" alt="logement febrian">  
+                                    <img src="images/hebergements/4_small/febrian-zakaria-M6S1WvfW68A-unsplash.jpg" alt="logement febrian">  
                                 <div class="titrePhoto"> <!--Description du lieu-->
                                     Hôtel chez Amina
                                 </div>
@@ -229,7 +229,7 @@
                     <div class="hebergementPopulaire"> <!--bloc contour-->
                         <div class="photoPopulaire">
                             <a href="">
-                                <img src="Reservia/images/hebergements/4_small/emile-guillemot-Bj_rcSC5XfE-unsplash.jpg" alt="logement emile"> 
+                                <img src="images/hebergements/4_small/emile-guillemot-Bj_rcSC5XfE-unsplash.jpg" alt="logement emile"> 
                             </a>
                         </div>
                         <div class="titrePhotoPopulaire"> <!--Description du lieu-->
@@ -258,7 +258,7 @@
                     <div class="hebergementPopulaire"> <!--bloc contour-->
                         <div class="photoPopulaire">
                             <a href="">
-                                <img src="Reservia/images/hebergements/4_small/aw-creative-VGs8z60yT2c-unsplash.jpg" alt="logement creative"> 
+                                <img src="images/hebergements/4_small/aw-creative-VGs8z60yT2c-unsplash.jpg" alt="logement creative"> 
                             </a>
                         </div> 
                         <div class="titrePhotoPopulaire"> <!--Description du lieu-->
@@ -288,7 +288,7 @@
                     <div class="hebergementPopulaire"> <!--bloc contour-->
                         <div class="photoPopulaire">
                             <a href="">
-                                <img src="Reservia/images/hebergements/4_small/febrian-zakaria-sjvU0THccQA-unsplash.jpg" alt="logement febrian">
+                                <img src="images/hebergements/4_small/febrian-zakaria-sjvU0THccQA-unsplash.jpg" alt="logement febrian">
                             </a>
                         </div> 
                         <div class="titrePhotoPopulaire"> <!--Description du lieu-->
@@ -323,7 +323,7 @@
                 <div class="activiteMarseille"> <!--Bloc contour--> 
                     <div class="photoActivite">
                         <a href="">
-                            <img src="Reservia/images/activites/4_small/reno-laithienne-QUgJhdY5Fyk-unsplash.jpg" alt="vieux port">
+                            <img src="images/activites/4_small/reno-laithienne-QUgJhdY5Fyk-unsplash.jpg" alt="vieux port">
                         </a>
                     </div>
                     <div class="titrePhotoActivite">
@@ -337,7 +337,7 @@
                 <div class="activiteMarseille1"> <!--Bloc contour-->
                     <div class="photoActivite1">
                         <a href="">
-                            <img src="Reservia/images/activites/4_small/paul-hermann-QFTrLdQIRhI-unsplash.jpg" alt="fort de pomègues">
+                            <img src="images/activites/4_small/paul-hermann-QFTrLdQIRhI-unsplash.jpg" alt="fort de pomègues">
                         </a>
                     </div>
                     <div class="titrePhotoActivite">
@@ -351,7 +351,7 @@
                 <div class="activiteMarseille2"> <!--Bloc contour-->
                     <div class="photoActivite2">
                         <a href="">
-                            <img src="Reservia/images/activites/4_small/kevin-hikari-rV_Qd1l-VXg-unsplash.jpg" alt="iles du frioul">
+                            <img src="images/activites/4_small/kevin-hikari-rV_Qd1l-VXg-unsplash.jpg" alt="iles du frioul">
                         </a>
                     </div>
                     <div class="titrePhotoActivite">
@@ -365,7 +365,7 @@
                 <div class="activiteMarseille"> <!--Bloc contour-->
                     <div class="photoActivite">
                         <a href="">
-                            <img src="Reservia/images/activites/4_small/kilyan-sockalingum-NR8-cBCN3aI-unsplash.jpg" alt="parc national des calanques">
+                            <img src="images/activites/4_small/kilyan-sockalingum-NR8-cBCN3aI-unsplash.jpg" alt="parc national des calanques">
                         </a>
                     </div>
                     <div class="titrePhotoActivite">
@@ -379,7 +379,7 @@
                 <div class="activiteMarseille3"> <!--Bloc contour-->
                     <div class="photoActivite3">
                         <a href="">
-                            <img src="Reservia/images/activites/4_small/florian-wehde-xW9e8gdotxI-unsplash.jpg" alt="notre dame de la garde">
+                            <img src="images/activites/4_small/florian-wehde-xW9e8gdotxI-unsplash.jpg" alt="notre dame de la garde">
                         </a>
                     </div>
                     <div class="titrePhotoActivite">
@@ -393,7 +393,7 @@
                 <div class="activiteMarseille4"> <!--Bloc contour-->
                     <div class="photoActivite4">
                         <a href="">
-                            <img src="Reservia/images/activites/4_small/lena-paulin-wH2-EJoDcV0-unsplash.jpg" alt="parc longchamp">
+                            <img src="images/activites/4_small/lena-paulin-wH2-EJoDcV0-unsplash.jpg" alt="parc longchamp">
                         </a>
                     </div>
                     <div class="titrePhotoActivite">
