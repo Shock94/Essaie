@@ -15,7 +15,7 @@
         <header>
             <nav> <!--Le navigateur en haut a droite-->
                 <ul>
-                    <li><a href="#"><img src="Reservia/images/logo/Reservia.svg" alt="Reservia"></a></li>
+                    <li><a href="#"><img src="images/logo/Reservia.svg" alt="Reservia"></a></li>
                     <li><a href="#hebergement">Hébergement</a></li> <!-- Ancre-->
                     <li><a href="#activite">Activité</a></li>
                     <li><a href="#"><em>S'inscrire</em></a></li>
